@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050014,100:3b1d8f&text=QUOC DONG&fontSize=55&fontAlignY=35&desc=Pentester%20%7C%20Security%20Researcher%20%7C%20CVE%20Hunter&descSize=18&descAlignY=55&animation=fadeIn" alt="DONG2209 — Pentester & Security Researcher" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050014,100:3b1d8f&text=QUOC%20DONG&fontSize=55&fontAlignY=35&desc=Pentester%20%7C%20Security%20Researcher%20%7C%20CVE%20Hunter&descSize=18&descAlignY=55&animation=fadeIn" alt="DONG2209 — Pentester & Security Researcher" />
 </p>
 
-<!-- ===== GIF vũ trụ: file local trong thư mục asset (cách bền nhất, không lo chết link) =====
-     Muốn đổi GIF khác: thay tên file bên dưới.
-     Trong asset/ còn có: "eru chitanda anime love GIF.gif" -->
+<!-- ===== GIF: file local trong thư mục asset (cách bền nhất, không lo chết link) =====
+     Trong asset/ còn có: spacesun.gif (chủ đề vũ trụ) — đổi bằng cách thay tên file bên dưới -->
 <p align="center">
-  <img src="asset/animelove.gif" width="375" alt="space sun" />
+  <img src="asset/animelove.gif" width="375" alt="anime gif" />
 </p>
 
 ### 🌌 About me
@@ -53,8 +52,11 @@ Security researcher & Pentester. I break things responsibly — and report them,
 <details>
 <summary>📊 GitHub Stats</summary>
 <br/>
+<!-- Đang dùng github-profile-summary-cards vì github-readme-stats.vercel.app hay bị 503.
+     Khi service kia hồi phục, có thể đổi lại bằng URL cũ:
+     https://github-readme-stats.vercel.app/api?username=DONG2209&show_icons=true&theme=tokyonight&hide_title=true&count_private=true -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DONG2209&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DONG2209&theme=tokyonight" />
 </p>
 </details>
 
