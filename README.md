@@ -30,8 +30,6 @@ Security researcher & Pentester. I break things responsibly — and report them,
 
 ¹ CVE ID pending — [advisory](https://github.com/django-cms/django-cms/security/advisories/GHSA-vwcw-r26r-22cc) is published, the CVE number hasn't been assigned yet.
 
-Vendor advisories: [Hugo GHSA-x3mx-cm49-8m9c](https://github.com/gohugoio/hugo/security/advisories/GHSA-x3mx-cm49-8m9c) · [Hugo GHSA-q4xf-287f-98r8](https://github.com/gohugoio/hugo/security/advisories/GHSA-q4xf-287f-98r8) · [Hugo GHSA-797m-7j5g-3rpr](https://github.com/gohugoio/hugo/security/advisories/GHSA-797m-7j5g-3rpr) · [Ghost GHSA-rv92-9vfp-2826](https://github.com/TryGhost/Ghost/security/advisories/GHSA-rv92-9vfp-2826)
-
 
 ### 🧰 Skills & Tools
 
