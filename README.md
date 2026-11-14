@@ -18,10 +18,19 @@ Security researcher & Pentester. I break things responsibly — and report them,
 
 ### 🛡️ CVEs
 
-
 | CVE ID | Product | Vulnerability Type | Severity | Year |
 |:--|:--|:--|:--|:--|
-| [CVE-2026-XXXXX](https://github.com/django-cms/django-cms/security/advisories/GHSA-vwcw-r26r-22cc) | _django-cms_ | _Privilege escalation_ | _High_ | 2026 |
+| [CVE-2026-100690](https://github.com/advisories/GHSA-gqg5-5gw3-54pq) | Hugo | Arbitrary file read — symlink sandbox bypass in Node.js tools (PostCSS / TailwindCSS / Babel) | High | 2026 |
+| [CVE-2026-100691](https://github.com/advisories/GHSA-8v94-8989-vc79) | Hugo | Stored XSS — unescaped `lineAnchors` in syntax highlighter | Medium | 2026 |
+| [CVE-2026-100692](https://github.com/advisories/GHSA-m29q-9cm9-wcf6) | Hugo | Arbitrary file read — symlinked theme/module mount roots | High | 2026 |
+| [CVE-2026-103269](https://github.com/advisories/GHSA-cg23-423q-wg36) | Ghost | Missing authorization — gated post excerpts readable by members | Medium | 2026 |
+| [CVE-2026-105643](https://github.com/advisories/GHSA-69qc-f5m6-889c) | Ghost | Stored XSS via embed card previews | High | 2026 |
+| [CVE-2026-105676](https://github.com/advisories/GHSA-m382-6jw4-fmp6) | Ghost | Path traversal via locale setting | Medium | 2026 |
+| CVE-2026-XXX¹ | django-cms | Privilege escalation — delegated admin → superuser takeover | High | 2026 |
+
+¹ CVE ID pending — [advisory](https://github.com/django-cms/django-cms/security/advisories/GHSA-vwcw-r26r-22cc) is published, the CVE number hasn't been assigned yet.
+
+Vendor advisories: [Hugo GHSA-x3mx-cm49-8m9c](https://github.com/gohugoio/hugo/security/advisories/GHSA-x3mx-cm49-8m9c) · [Hugo GHSA-q4xf-287f-98r8](https://github.com/gohugoio/hugo/security/advisories/GHSA-q4xf-287f-98r8) · [Hugo GHSA-797m-7j5g-3rpr](https://github.com/gohugoio/hugo/security/advisories/GHSA-797m-7j5g-3rpr) · [Ghost GHSA-rv92-9vfp-2826](https://github.com/TryGhost/Ghost/security/advisories/GHSA-rv92-9vfp-2826)
 
 
 ### 🧰 Skills & Tools
